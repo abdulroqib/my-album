@@ -1,8 +1,3 @@
-# Album API
-
-![Standard Js](https://cdn.rawgit.com/feross/standard/master/badge.svg)
-
-
 ## How to Start?
 
 ```
@@ -12,3 +7,4 @@ npm install
 npm start
 ```
 
+![Standard Js](https://cdn.rawgit.com/feross/standard/master/badge.svg)
